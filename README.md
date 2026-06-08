@@ -1,16 +1,12 @@
-\# Rune Inscriptions — Obsidian Notes
+\# Rune Inscriptions
 
 
 
-A simple Markdown/Obsidian collection of individual runic inscription notes.
+A simple Markdown collection of runic inscription notes, made for use with \*\*Obsidian\*\*, GitHub, or any Markdown editor.
 
 
 
-This repository is intended for people who want to download rune inscription notes and use them directly in \*\*Obsidian\*\*, another Markdown editor, or their own study system.
-
-
-
-Each inscription is kept as its own `.md` file.
+This repository contains individual `.md` files for runic inscriptions only. It is meant to be easy to download, browse, and reuse as a study vault.
 
 
 
@@ -18,25 +14,27 @@ Each inscription is kept as its own `.md` file.
 
 
 
-The goal of this repository is simple:
+This project is for people who want a clean collection of rune inscription notes without needing a full database, app, or complicated setup.
 
 
 
-\* collect runic inscriptions as individual Markdown notes
-
-\* make them easy to browse, copy, download, and study
-
-\* keep the notes usable inside Obsidian
-
-\* separate inscription notes from broader mythology, symbolism, or personal research notes
+The goals are:
 
 
 
-This is not meant to be a complete scholarly edition of all runic inscriptions. It is a practical study vault focused on the inscriptions themselves.
+\* to keep each inscription as its own Markdown note
+
+\* to make the notes usable directly in Obsidian
+
+\* to make the collection easy to download from GitHub
+
+\* to keep inscription notes separate from broader mythology or symbolism notes
+
+\* to mark uncertainty clearly where readings or interpretations are debated
 
 
 
-\## Structure
+\## Repository Structure
 
 
 
@@ -62,25 +60,25 @@ rune-inscriptions/
 
 
 
-\## How to use
+\## How to Use
 
 
 
-\### Option 1: Download as ZIP
+\### Download as ZIP
 
 
 
-1\. Click the green \*\*Code\*\* button on GitHub.
+1\. Click the green \*\*Code\*\* button.
 
 2\. Choose \*\*Download ZIP\*\*.
 
 3\. Unzip the folder.
 
-4\. Open the folder as an Obsidian vault.
+4\. Open the folder in Obsidian or another Markdown editor.
 
 
 
-\### Option 2: Clone with Git
+\### Clone with Git
 
 
 
@@ -92,11 +90,11 @@ git clone https://github.com/ErgoEtzy/rune-inscriptions.git
 
 
 
-Then open the folder in Obsidian.
+Then open the folder as an Obsidian vault.
 
 
 
-\## Note format
+\## Note Format
 
 
 
@@ -106,13 +104,13 @@ Each inscription note may include:
 
 \* inscription ID
 
-\* inscription name
+\* name
 
 \* location
 
-\* period/date
+\* date or period
 
-\* rune row/script
+\* rune row or script
 
 \* object type
 
@@ -128,7 +126,7 @@ Each inscription note may include:
 
 
 
-Example:
+Example structure:
 
 
 
@@ -164,7 +162,7 @@ tags:
 
 
 
-\## Basic information
+\## Basic Information
 
 
 
@@ -190,7 +188,7 @@ tags:
 
 
 
-\## Normalized form
+\## Normalized Text
 
 
 
@@ -224,11 +222,11 @@ tags:
 
 
 
-\## File naming
+\## File Naming
 
 
 
-Filenames are kept simple and GitHub-friendly.
+Filenames are kept simple so they work well across GitHub, Windows, Obsidian, and other systems.
 
 
 
@@ -250,7 +248,7 @@ Oeg-136-Roek-stone.md
 
 
 
-Inside the notes, proper letters and scholarly forms may still be used, such as:
+Inside the notes, proper scholarly characters may still be used, such as:
 
 
 
@@ -272,103 +270,43 @@ Inside the notes, proper letters and scholarly forms may still be used, such as:
 
 
 
-\## Obsidian compatibility
+\## Obsidian Compatibility
 
 
 
-This repository is designed to work well with Obsidian.
+This repository can be opened directly as an Obsidian vault.
 
 
 
-You can use:
+It supports:
 
 
 
-\* `\[\[internal links]]`
+\* Markdown notes
+
+\* folders
 
 \* tags
 
 \* YAML frontmatter
 
-\* folders
+\* internal links
 
 \* graph view
 
 \* search
 
-\* Dataview, if you want structured lists later
+\* Dataview, if you want to use structured metadata later
 
 
 
-\## Disclaimer
+\## Uncertainty
 
 
 
-Runic inscriptions can be difficult to read and interpret. Readings, datings, normalizations, and translations may vary between scholars.
+Runic inscriptions are often difficult to read, date, normalize, and translate. Different scholars may give different readings.
 
 
-
-Where possible, uncertain readings should be marked clearly.
-
-
-
-Suggested uncertainty labels:
-
-
-
-```text
-
-confirmed
-
-likely
-
-plausible
-
-debated
-
-speculative
-
-uncertain
-
-```
-
-
-
-\## Contributions
-
-
-
-Corrections, additions, and source improvements are welcome.
-
-
-
-When contributing, please try to include:
-
-
-
-\* the inscription ID
-
-\* the source of the reading or interpretation
-
-\* whether a reading is certain or debated
-
-\* clean Markdown formatting
-
-
-
-\## License
-
-
-
-The notes in this repository are intended for study and reuse.
-
-
-
-Please do not upload copyrighted PDFs, scans, or book chapters unless they are legally allowed to be shared.
-
-
-
-Only include your own notes, public-domain material, open-access material, or properly cited short references.
 
 
 
