@@ -40,13 +40,11 @@ Repository structure
 
 rune-inscriptions/
 
-&#x20; README.md
+README.md
 
-&#x20; index.md
+index.md
 
-&#x20; inscriptions/
-
-&#x20;   individual inscription files
+inscriptions/individual inscription files
 
 ```
 
