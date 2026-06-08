@@ -30,15 +30,13 @@ What this repository contains
 
 
 
-
-
-
-
 Repository structure
 
 \--------------------
 
 
+
+```text
 
 rune-inscriptions/
 
@@ -50,7 +48,7 @@ rune-inscriptions/
 
 &#x20;   individual inscription files
 
-
+```
 
 
 
@@ -63,6 +61,8 @@ File format
 Each inscription file can follow this general structure:
 
 
+
+```text
 
 Inscription ID — Name
 
@@ -104,7 +104,7 @@ Notes
 
 Sources
 
-
+```
 
 
 
@@ -115,10 +115,6 @@ Notes on uncertainty
 
 
 Runic inscriptions are often difficult to read and interpret. Readings, datings, normalizations, and translations may vary between scholars.
-
-
-
-
 
 
 
