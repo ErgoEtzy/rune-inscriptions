@@ -30,6 +30,10 @@ What this repository contains
 
 
 
+
+
+
+
 Repository structure
 
 \--------------------
@@ -45,6 +49,8 @@ rune-inscriptions/
 &#x20; inscriptions/
 
 &#x20;   individual inscription files
+
+
 
 
 
@@ -100,6 +106,8 @@ Sources
 
 
 
+
+
 Notes on uncertainty
 
 \--------------------
@@ -110,21 +118,7 @@ Runic inscriptions are often difficult to read and interpret. Readings, datings,
 
 
 
-Uncertain information should be marked clearly.
 
-
-
-Copyright
-
-\---------
-
-
-
-Please do not upload copyrighted books, scans, PDFs, or long copied passages unless they are legally shareable.
-
-
-
-This repository should contain original notes, short references, public-domain material, open-access material, or links to sources.
 
 
 
