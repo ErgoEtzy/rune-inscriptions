@@ -4,11 +4,7 @@ Rune Inscriptions
 
 
 
-A collection of runic inscription notes in Markdown format.
-
-
-
-This repository is a simple archive of individual runic inscriptions. Each inscription has its own Markdown file with basic information, text, translation, notes, and sources where available.
+A collection of runic inscription notes in Markdown format, made for importing in Obsidian.
 
 
 
@@ -34,6 +30,10 @@ What this repository contains
 
 
 
+
+
+
+
 Repository structure
 
 \--------------------
@@ -49,6 +49,10 @@ rune-inscriptions/
 &#x20; inscriptions/
 
 &#x20;   individual inscription files
+
+
+
+
 
 
 
@@ -104,6 +108,10 @@ Sources
 
 
 
+
+
+
+
 Notes on uncertainty
 
 \--------------------
@@ -118,35 +126,7 @@ Uncertain information should be marked clearly.
 
 
 
-Useful labels:
 
-
-
-\- confirmed
-
-\- likely
-
-\- plausible
-
-\- debated
-
-\- uncertain
-
-\- speculative
-
-
-
-Contributions
-
-\-------------
-
-
-
-Corrections and additions are welcome.
-
-
-
-Please include sources when adding or changing readings, translations, dates, or interpretations.
 
 
 
@@ -161,6 +141,10 @@ Please do not upload copyrighted books, scans, PDFs, or long copied passages unl
 
 
 This repository should contain original notes, short references, public-domain material, open-access material, or links to sources.
+
+
+
+
 
 
 
