@@ -38,13 +38,18 @@ Repository structure
 
 ```text
 
-rune-inscriptions/
-
-README.md
-
-index.md
-
-inscriptions/individual inscription files
+inscriptions
+├── 🇩🇰 Denmark
+│   └── Danish inscriptions
+├── 🇮🇪 Ireland
+│   └── Ireland
+├── 🇳🇴 Norway
+│   └── Norwegian inscriptions
+├── 🇸🇪 Sweden
+├── ❔ Unknown-location
+│   └── Unsorted
+├── README.md
+└── index.md
 
 ```
 
